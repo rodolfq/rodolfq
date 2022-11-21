@@ -21,7 +21,7 @@ Sinta-se a vontade vasculhando meus pequenos projetos de estudo e não repara na
 <a href = "https://www.linkedin.com/in/rodolfo-q/">
   <img align="center" height="20" width="20" alt="js-icon"  src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
   </a>
-  Se precisar me encontrar no linkedin.<br>
+  Se quiser, pode me encontrar no linkedin.<br>
   </p>
  
 
