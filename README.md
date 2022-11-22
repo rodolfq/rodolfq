@@ -12,6 +12,16 @@ Sou o <b>Rodolfo Quintanilha</b>
 <img align="center" height="30" width="40" alt="js-icon"  src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg">
 </div>
 
+  <div style="display: inline_block"><br>
+<h1 >Principais Projetos</h1>
+    Alguns dos principais projetos que tenho utilizado como material de estudo.<br><br>
+    
+  <a href = "https://github.com/rodolfq/EcoGAS">
+<img align="center" height="50" width="50" alt="js-icon"  src="https://github.com/rodolfq/EcoGAS/blob/master/icon.png"> EcoGas<br><br>
+    <a href = "https://github.com/rodolfq/Calculinha">
+<img align="center" height="50" width="50" alt="js-icon"  src="https://github.com/rodolfq/Calculinha/blob/master/icon.jpg"> Calculinha
+</div>
+  
 <br>
 <br>
 <br>
