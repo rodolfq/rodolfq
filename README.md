@@ -27,8 +27,7 @@ Sou o <b>Rodolfo Quintanilha</b>
 <img align="center" height="50" width="50" alt="js-icon"  src="https://github.com/rodolfq/Chatzin/blob/master/Icon2.png"> Chatzin<br><br></a>
     
     
-  
-<br>
+
 <br>
 <br>
 Sinta-se a vontade vasculhando meus pequenos projetos de estudo e não repara na bagunça. <br>
@@ -40,7 +39,6 @@ Sinta-se a vontade vasculhando meus pequenos projetos de estudo e não repara na
   Se quiser, pode me encontrar no linkedin.<br>
   </p>
  
-
 
 <!---
 rodolfq/rodolfq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
