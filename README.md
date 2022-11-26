@@ -19,7 +19,7 @@ Sou o <b>Rodolfo Quintanilha</b>
   <a href = "https://github.com/rodolfq/EcoGAS">
 <img align="center" height="50" width="50" alt="js-icon"  src="https://github.com/rodolfq/EcoGAS/blob/master/icon.png"> EcoGas<br><br>
     <a href = "https://github.com/rodolfq/Calculinha">
-<img align="center" height="50" width="50" alt="js-icon"  src="https://github.com/rodolfq/Calculinha/blob/master/icon.jpg"> Calculinha<br><br>
+<img align="center" height="50" width="50" alt="js-icon"  src="https://github.com/rodolfq/Calculinha/blob/master/icon2.png"> Calculinha<br><br>
 </div>
     <a href = "https://github.com/rodolfq/motivation">
 <img align="center" height="50" width="50" alt="js-icon"  src="https://github.com/rodolfq/motivation/blob/master/icon3.png"> Motivation<br><br></a>
